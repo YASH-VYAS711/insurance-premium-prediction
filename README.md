@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/YASH-VYAS711/insurance-premium-prediction/actions/workflows/ci.yml/badge.svg)
 # Insurance Premium Prediction System
 
 An end-to-end Machine Learning web application that predicts insurance premiums based on user demographic and health inputs.
