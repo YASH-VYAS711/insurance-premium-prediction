@@ -28,8 +28,7 @@ jobs:
 
       - name: Validate FastAPI backend
         run: |
-          cd Backend
-          python -c "import main"
+          python -c "from Backend import main"
 
   frontend-build:
     name: Frontend Build
