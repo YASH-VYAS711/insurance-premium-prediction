@@ -60,7 +60,7 @@ npm run dev
 ## 🐳 Run Using Docker
 
 ```bash
-docker build -t insurance-api .
+docker build -t insurance-api.
 docker run -p 8000:8000 insurance-api
 ```
 
