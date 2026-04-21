@@ -6,7 +6,7 @@ An end-to-end Machine Learning web application that predicts insurance premiums 
 ---
 
 ## 🚀 Tech Stack
-
+ 
 - **Frontend:** React (Vite)
 - **Backend:** FastAPI, Pydantic
 - **Machine Learning:** Random Forest (scikit-learn)
