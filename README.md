@@ -2,7 +2,6 @@
 # Insurance Premium Prediction System.
 
 An end-to-end Machine Learning web application that predicts insurance premiums based on user demographic and health inputs
-
 ---
 
 ## 🚀 Tech Stack
